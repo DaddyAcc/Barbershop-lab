@@ -1,5 +1,8 @@
 ﻿# Barbershop-lab
 
-/// Отредактируй меня _)) ///
+Link to repository: https://github.com/DaddyAcc/Barbershop-lab
 
-Отредактировал! Еще раз повторим? )) 
+- Отредактируй меня )) 
+
+- Отредактировал! Еще раз повторим? )) 
+- And will be better to practice english.
